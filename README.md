@@ -59,6 +59,6 @@ Anchor Free 方法
 
     08.FCOS:https://arxiv.org/abs/1904.01355
     
-    09.FoveaBox:https://arxiv.org/abs/1904.03797v1
+    09.FoveaBox:https://arxiv.org/abs/1904.03797
 
     10.CornerNet-Lite:https://arxiv.org/abs/1904.08900
