@@ -6,6 +6,8 @@ Two Stage 方法
              https://www.cnblogs.com/skyfsm/p/6806246.html
 
     02.SPP-Net:https://arxiv.org/abs/1406.4729
+               http://www.dengfanxin.cn/?p=403
+               https://blog.csdn.net/weixin_43624538/article/details/87966601
 
     03.Fast R-CNN:https://arxiv.org/abs/1504.08083
 
